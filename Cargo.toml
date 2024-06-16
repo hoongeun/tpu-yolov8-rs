@@ -1,0 +1,8 @@
+[package]
+name = "tpu-yolo8-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+opencv = "0.92.0"
+tflite = "0.9.7"
